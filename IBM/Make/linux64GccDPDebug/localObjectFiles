@@ -1,0 +1,5 @@
+LOCAL_OBJECTS = \
+IBM.o\
+directForcing.o\
+ghostCell.o\
+comDirectForcing.o

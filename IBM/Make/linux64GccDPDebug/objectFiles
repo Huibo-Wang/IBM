@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/IBM.o\
+$(OBJECTS_DIR)/directForcing.o\
+$(OBJECTS_DIR)/ghostCell.o\
+$(OBJECTS_DIR)/comDirectForcing.o

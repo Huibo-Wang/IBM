@@ -1,0 +1,8 @@
+IBM.C
+
+incompressible/directForcing/directForcing.C
+incompressible/ghostCell/ghostCell.C
+
+compressible/directForcing/comDirectForcing.C
+
+LIB = $(FOAM_USER_LIBBIN)/libIBM

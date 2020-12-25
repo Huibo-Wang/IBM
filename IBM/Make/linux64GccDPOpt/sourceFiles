@@ -1,0 +1,5 @@
+SOURCE = \
+IBM.C\
+incompressible/directForcing/directForcing.C\
+incompressible/ghostCell/ghostCell.C\
+compressible/directForcing/comDirectForcing.C
